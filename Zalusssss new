@@ -1323,6 +1323,63 @@ http://bdiptv.myftp.biz:25461/live/rarin/121/10291.m3u8
 http://bdiptv.myftp.biz:25461/live/rarin/121/10292.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://i.imgur.com/xMxVSYL.png" group-title="BDIX 6 ",VH1
 http://bdiptv.myftp.biz:25461/live/rarin/121/10293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV [BD]" tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="Extra 1",BTV [BD]
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV [CTG]" tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="Extra 1",BTV [CTG]
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAASRANGA TV HD [BD]" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Extra 1",MAASRANGA TV HD [BD]
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Khusboo Bangla [IN]" tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Extra 1",Khusboo Bangla [IN]
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R Plus News [IN]" tvg-logo="https://i.imgur.com/w4iXw4C.jpg" group-title="Extra 1",R Plus News [IN]
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies [IN]" tvg-logo="https://i.imgur.com/QOadxzR.png" group-title="Extra 1",Bangla Talkies [IN]
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dabaang" tvg-logo="https://i.imgur.com/wXSRiun.jpg" group-title="Extra 1",Dabaang
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polymar" tvg-logo="https://i.imgur.com/NXL6ftL.jpg" group-title="Extra 1",Polymar
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="a+TV" tvg-logo="https://i.imgur.com/bQfQLP1.jpg" group-title="Extra 1",a+TV
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ary zindagi" tvg-logo="https://i.imgur.com/qy87WEK.jpg" group-title="Extra 1",Ary zindagi
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ary Digital Asia" tvg-logo="https://i.imgur.com/0kVzKa6.jpg" group-title="Extra 1",Ary Digital Asia
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Express TV" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="Extra 1",Express TV
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Home" tvg-logo="https://i.imgur.com/kfimejF.jpg" group-title="Extra 1",PTV Home
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="Extra 1",ABZY MOVIES
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MANORANJAN Grand" tvg-logo="https://i.imgur.com/TkRBcZX.jpg" group-title="Extra 1",MANORANJAN Grand
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="Extra 1",B4U Kadak
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moon" tvg-logo="https://i.imgur.com/M1v4M0v.jpg" group-title="Extra 1",Moon
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kairali Movies" tvg-logo="https://i.imgur.com/J7Oevxk.png" group-title="Extra 1",Kairali Movies
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="Extra 1",Sony Ten 2 HD
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro News (1)" tvg-logo="https://i.imgur.com/jBpJrGR.png" group-title="Extra 1",Euro News (1)
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEO news" tvg-logo="https://i.imgur.com/RiIKPV3.png" group-title="Extra 1",GEO news
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GEO Tez" tvg-logo="https://i.imgur.com/RiIKPV3.png" group-title="Extra 1",GEO Tez
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="Extra 1",Zee ETC
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dhamaal" tvg-logo="https://i.imgur.com/Eptm0IX.jpg" group-title="Extra 1",Dhamaal
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Marathi" tvg-logo="https://i.imgur.com/8GYDctq.jpg" group-title="Extra 1",Sangeet Marathi
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MK Tunes" tvg-logo="https://i.imgur.com/kuyqwRZ.png" group-title="Extra 1",MK Tunes
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ary Musik" tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="Extra 1",Ary Musik
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CINEMA HD" tvg-logo="" group-title="Extra 1",IN: ZEE CINEMA HD
+http://bdiptv.myftp.biz:25461/live/touhid/ExJYrIcbWT/10169.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TRAIN TO BUSIAN" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL7v79L_4drBAwzvXKCaTms0G9gx86N-pbxTCduLStbkr_vZ6M" group-title="DUBBED MOVIES",TRAIN TO BUSIAN
 http://bdiptv.myftp.biz:25461/movie/nawtest/121/6843.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Parasite" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg" group-title="DUBBED MOVIES",Parasite
