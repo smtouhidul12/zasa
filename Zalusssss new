@@ -61,8 +61,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6516.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla",Jalsha Movies
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD---" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/220?cb=20190806073703" group-title="Bangla",JALSHA MOVIES HD---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6519.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="https://s6.gifyu.com/images/image225ddda68974970a.png" group-title="Bangla",Ruposhi Bangla
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bijoy TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bijoy_TV.svg/1245px-Bijoy_TV.svg.png" group-title="Bangla",Bijoy TV 
@@ -85,8 +83,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6660.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6679.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV HD *" tvg-logo="https://i.pinimg.com/originals/a5/64/e6/a564e6607a10ae58ce3659b9a8e65382.jpg" group-title="Bangla",GTV HD *
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV HD ---" tvg-logo="https://img.favpng.com/13/2/9/bangladesh-ekattor-tv-television-channel-atn-news-png-favpng-QaMdhQMrfu3J98VEq15N66ELP.jpg" group-title="Bangla",Ekattor TV HD ---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6685.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOPNO TV " tvg-logo="https://colorsiptv.com/uploads/tv_image/shopno.png" group-title="Bangla",SHOPNO TV 
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6687.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla 
@@ -131,8 +127,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6497.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6529.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Bangla",DD Bangla
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD *---" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" group-title="Bangla",STAR JALSHA HD *---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star plus HD" tvg-logo="https://i.ytimg.com/vi/P2ryJTufkEk/hqdefault.jpg" group-title="Hindi Entertainment",Star plus HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6530.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR PLUS " tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="Hindi Entertainment",STAR PLUS 
@@ -227,12 +221,8 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6556.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6557.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNX HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" group-title="English Movie ",MNX HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies---" tvg-logo="https://www.pngkey.com/png/detail/107-1070619_star-movies-hd-india-star-movies-hd-logo.png" group-title="English Movie ",Star Movies---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lotus Macaw HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="English Movie ",Lotus Macaw HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD---" tvg-logo="" group-title="English Movie ",HBO HD---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6562.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English Movie ",Star movies Select HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6563.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE " tvg-logo="https://b7.pngbarn.com/png/334/553/warner-tv-television-channel-television-show-wb-channel-warner-bross-png-clip-art.png" group-title="English Movie ",FOX LIFE 
@@ -251,8 +241,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6570.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6571.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="& Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movie ",& Prive HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MR BEAN SHOW---" tvg-logo="" group-title="English Movie ",MR BEAN SHOW---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6635.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romedy Now HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/Romedy_Now_2019_Black.jpg" group-title="English Movie ",Romedy Now HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6689.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mbc Max HD" tvg-logo="https://bit.ly/3cuZdjZ" group-title="English Movie ",Mbc Max HD
@@ -265,26 +253,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6692.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6693.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN  ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="English Movie ",AXN  ru
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL MOVIES---" tvg-logo="https://cnet4.cbsistatic.com/img/YiuVA8A1gQjX1yfz1lKuS4_xOe4=/940x0/2019/04/23/e8e80b56-9284-4ab5-a5ed-d52328554d7d/avengers-endgame-imax-poster-crop.png" group-title="English Movie ",MARVEL MOVIES---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DC MOVIES---" tvg-logo="https://i.pinimg.com/originals/c0/fd/33/c0fd33e31429ec21b3abb286159407b1.jpg" group-title="English Movie ",DC MOVIES---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAMES BOND MOVIES---" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Blood_Stone_cover.jpg/220px-Blood_Stone_cover.jpg" group-title="English Movie ",JAMES BOND MOVIES---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JACKIE CHAN MOVIES---" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Bleeding_Steel_US_Poster.jpg" group-title="English Movie ",JACKIE CHAN MOVIES---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOM CRUISE MOVIES---" tvg-logo="https://mk0geekspincou9juj7n.kinstacdn.com/wp-content/uploads/2020/05/Tom-Cruise.jpg" group-title="English Movie ",TOM CRUISE MOVIES---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stephen Chow MOVIES---" tvg-logo="https://i.imgur.com/BwKnWck.jpg" group-title="English Movie ",Stephen Chow MOVIES---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Andi Lau MOVIES---" tvg-logo="https://i.imgur.com/w49wabz.jpg" group-title="English Movie ",Andi Lau MOVIES---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOXOFFICE *---" tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2019/09/5-Logo-No-Shape-White.png" group-title="English Movie ",BOXOFFICE *---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHINA MOVIES*---" tvg-logo="https://i.pinimg.com/236x/ae/e8/5c/aee85c1fe4db78a0181ec20a853338a6.jpg" group-title="English Movie ",CHINA MOVIES*---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHINA MOVIES2**---" tvg-logo="https://i.pinimg.com/236x/ae/e8/5c/aee85c1fe4db78a0181ec20a853338a6.jpg" group-title="English Movie ",CHINA MOVIES2**---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sherlock" tvg-logo="https://i.imgur.com/T1lZFNZ.jpg" group-title="English Movie ",Sherlock
 http://bdiptv.myftp.biz:25461/live/nawtest/121/9069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors infinity" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Colors_Infinity_Black.jpg" group-title="English Movie ",Colors infinity
@@ -309,8 +277,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6615.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6616.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK Hindi" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="Kids",NICK Hindi
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney XP Junior---" tvg-logo="https://www.pngfind.com/pngs/m/310-3102792_disney-channel-logo-png-disney-junior-disney-channel.png" group-title="Kids",Disney XP Junior---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6618.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids",Animax
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6702.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1200px-POGO-logo.svg.png" group-title="Kids",POGO
@@ -323,16 +289,68 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6705.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6706.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RAI YOYO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsmnKfKe35eT-UaHB6BxAPSVd9cI2BA5HaoA&usqp=CAU" group-title="Kids",RAI YOYO
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6707.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD---" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/220?cb=20190806073703" group-title="Bangla",JALSHA MOVIES HD---
+http://bdiptv.myftp.biz:25461/nawtest/121/6519
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV HD ---" tvg-logo="https://img.favpng.com/13/2/9/bangladesh-ekattor-tv-television-channel-atn-news-png-favpng-QaMdhQMrfu3J98VEq15N66ELP.jpg" group-title="Bangla",Ekattor TV HD ---
+http://bdiptv.myftp.biz:25461/nawtest/121/6685
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD *---" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png" group-title="Bangla",STAR JALSHA HD *---
+http://bdiptv.myftp.biz:25461/nawtest/121/9054
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies---" tvg-logo="https://www.pngkey.com/png/detail/107-1070619_star-movies-hd-india-star-movies-hd-logo.png" group-title="English Movie ",Star Movies---
+http://bdiptv.myftp.biz:25461/nawtest/121/6558
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD---" tvg-logo="" group-title="English Movie ",HBO HD---
+http://bdiptv.myftp.biz:25461/nawtest/121/6562
+#EXTINF:-1 tvg-id="" tvg-name="MR BEAN SHOW---" tvg-logo="" group-title="English Movie ",MR BEAN SHOW---
+http://bdiptv.myftp.biz:25461/nawtest/121/6635
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL MOVIES---" tvg-logo="https://cnet4.cbsistatic.com/img/YiuVA8A1gQjX1yfz1lKuS4_xOe4=/940x0/2019/04/23/e8e80b56-9284-4ab5-a5ed-d52328554d7d/avengers-endgame-imax-poster-crop.png" group-title="English Movie ",MARVEL MOVIES---
+http://bdiptv.myftp.biz:25461/nawtest/121/9056
+#EXTINF:-1 tvg-id="" tvg-name="DC MOVIES---" tvg-logo="https://i.pinimg.com/originals/c0/fd/33/c0fd33e31429ec21b3abb286159407b1.jpg" group-title="English Movie ",DC MOVIES---
+http://bdiptv.myftp.biz:25461/nawtest/121/9057
+#EXTINF:-1 tvg-id="" tvg-name="JAMES BOND MOVIES---" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Blood_Stone_cover.jpg/220px-Blood_Stone_cover.jpg" group-title="English Movie ",JAMES BOND MOVIES---
+http://bdiptv.myftp.biz:25461/nawtest/121/9058
+#EXTINF:-1 tvg-id="" tvg-name="JACKIE CHAN MOVIES---" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Bleeding_Steel_US_Poster.jpg" group-title="English Movie ",JACKIE CHAN MOVIES---
+http://bdiptv.myftp.biz:25461/nawtest/121/9059
+#EXTINF:-1 tvg-id="" tvg-name="TOM CRUISE MOVIES---" tvg-logo="https://mk0geekspincou9juj7n.kinstacdn.com/wp-content/uploads/2020/05/Tom-Cruise.jpg" group-title="English Movie ",TOM CRUISE MOVIES---
+http://bdiptv.myftp.biz:25461/nawtest/121/9060
+#EXTINF:-1 tvg-id="" tvg-name="Stephen Chow MOVIES---" tvg-logo="https://i.imgur.com/BwKnWck.jpg" group-title="English Movie ",Stephen Chow MOVIES---
+http://bdiptv.myftp.biz:25461/nawtest/121/9061
+#EXTINF:-1 tvg-id="" tvg-name="Andi Lau MOVIES---" tvg-logo="https://i.imgur.com/w49wabz.jpg" group-title="English Movie ",Andi Lau MOVIES---
+http://bdiptv.myftp.biz:25461/nawtest/121/9062
+#EXTINF:-1 tvg-id="" tvg-name="BOXOFFICE *---" tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2019/09/5-Logo-No-Shape-White.png" group-title="English Movie ",BOXOFFICE *---
+http://bdiptv.myftp.biz:25461/nawtest/121/9063
+#EXTINF:-1 tvg-id="" tvg-name="CHINA MOVIES*---" tvg-logo="https://i.pinimg.com/236x/ae/e8/5c/aee85c1fe4db78a0181ec20a853338a6.jpg" group-title="English Movie ",CHINA MOVIES*---
+http://bdiptv.myftp.biz:25461/nawtest/121/9066
+#EXTINF:-1 tvg-id="" tvg-name="CHINA MOVIES2**---" tvg-logo="https://i.pinimg.com/236x/ae/e8/5c/aee85c1fe4db78a0181ec20a853338a6.jpg" group-title="English Movie ",CHINA MOVIES2**---
+http://bdiptv.myftp.biz:25461/nawtest/121/9067
+#EXTINF:-1 tvg-id="" tvg-name="Disney XP Junior---" tvg-logo="https://www.pngfind.com/pngs/m/310-3102792_disney-channel-logo-png-disney-junior-disney-channel.png" group-title="Kids",Disney XP Junior---
+http://bdiptv.myftp.biz:25461/nawtest/121/6618
+#EXTINF:-1 tvg-id="" tvg-name="CN HD +---" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",CN HD +---
+http://bdiptv.myftp.biz:25461/nawtest/121/7104
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD---" tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD---
+http://bdiptv.myftp.biz:25461/nawtest/121/6585
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD---" tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD---
+http://bdiptv.myftp.biz:25461/nawtest/121/6586
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD---" tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg" group-title="Sports",Star Sports 1 HD---
+http://bdiptv.myftp.biz:25461/nawtest/121/6587
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD---" tvg-logo="https://w7.pngwing.com/pngs/288/60/png-transparent-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue-text-thumbnail.png" group-title="INFOTAINMENT",Discovery Bangla HD---
+http://bdiptv.myftp.biz:25461/nawtest/121/6575
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH FHD---" tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="INFOTAINMENT",BBC EARTH FHD---
+http://bdiptv.myftp.biz:25461/nawtest/121/6581
+#EXTINF:-1 tvg-id="" tvg-name="Mastii---" tvg-logo="https://jio-tv.com/uploads/tv_image/mastii.jpg" group-title="Music",Mastii---
+http://bdiptv.myftp.biz:25461/nawtest/121/6606
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC---" tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-etc.png" group-title="Music",Zee ETC---
+http://bdiptv.myftp.biz:25461/nawtest/121/6608
+#EXTINF:-1 tvg-id="" tvg-name="Music India---" tvg-logo="https://www.mediaworldwide.in/wp-content/uploads/2017/05/Music-India.jpg" group-title="Music",Music India---
+http://bdiptv.myftp.biz:25461/nawtest/121/6610
+#EXTINF:-1 tvg-id="" tvg-name="BU4 Music---" tvg-logo="" group-title="Music",BU4 Music---
+http://bdiptv.myftp.biz:25461/nawtest/121/6650
+#EXTINF:-1 tvg-id="" tvg-name="E 24---" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",E 24---
+http://bdiptv.myftp.biz:25461/nawtest/121/6808
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="OKTO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Okto_2D.png/revision/latest?cb=20151212044939" group-title="Kids",OKTO
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CN HD +---" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",CN HD +---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/7104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD---" tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="Sports",Star Sports Select 1 HD---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD---" tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="Sports",Star Sports Select 2 HD---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD---" tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg" group-title="Sports",Star Sports 1 HD---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6587.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TITAS SPORTS  HD " tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/12/titashsports1.jpg" group-title="Sports",TITAS SPORTS  HD 
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6588.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="Sports",Star Sports 2 HD
@@ -391,8 +409,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6670.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6673.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth HD+" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-bbc-earth-hd-logo-300x300.jpg" group-title="INFOTAINMENT",BBC Earth HD+
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD---" tvg-logo="https://w7.pngwing.com/pngs/288/60/png-transparent-bangladesh-bengali-discovery-channel-television-channel-bangla-television-blue-text-thumbnail.png" group-title="INFOTAINMENT",Discovery Bangla HD---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="https://img.favpng.com/13/13/4/history-television-channel-logo-television-show-png-favpng-FTKBPqwurbkF0U2qFKaMGT68u.jpg" group-title="INFOTAINMENT",HISTORY HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6574.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD " tvg-logo="" group-title="INFOTAINMENT",NAT GEO HD 
@@ -403,8 +419,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6577.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="INFOTAINMENT",TLC HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH FHD---" tvg-logo="https://i.imgur.com/Rrgu5uB.png" group-title="INFOTAINMENT",BBC EARTH FHD---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6581.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSddX3iqQgVYOYGKsbNiwsl7y01NmO6Mx7jIQ&usqp=CAU" group-title="INFOTAINMENT",BBC Lifestyle
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6582.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT Documentary" tvg-logo="" group-title="INFOTAINMENT",RT Documentary
@@ -535,20 +549,12 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6740.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6741.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats India" tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="Music",MTV Beats India
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mastii---" tvg-logo="https://jio-tv.com/uploads/tv_image/mastii.jpg" group-title="Music",Mastii---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6606.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="https://atnmusic.tv/images/logo.png" group-title="Music",ATN Music
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6607.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2014/04/zing-logo.jpg" group-title="Music",Zing
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee ETC---" tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-etc.png" group-title="Music",Zee ETC---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6608.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="https://w0.pngwave.com/png/849/297/9x-jalwa-television-channel-9x-media-streaming-media-others-png-clip-art.png" group-title="Music",9X JALWA
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music India---" tvg-logo="https://www.mediaworldwide.in/wp-content/uploads/2017/05/Music-India.jpg" group-title="Music",Music India---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BU4 Music---" tvg-logo="" group-title="Music",BU4 Music---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_856/PORTRAIT/S6d9cb2S.png" group-title="Music",Dhoom Music
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://pbs.twimg.com/profile_images/1061863870560530432/GNqH0PfF_400x400.jpg" group-title="Music",9XM
@@ -569,8 +575,6 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/6816.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6817.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM " tvg-logo="https://i.pinimg.com/originals/94/c7/f6/94c7f6559f4ce5b8559e8678a2048b74.png" group-title="Music",ZOOM 
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="E 24---" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",E 24---
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6808.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK Tunes hd" tvg-logo="https://i.imgur.com/kuyqwRZ.png" group-title="Music",MK Tunes hd
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6815.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/VH1_India_2016.jpg/revision/latest/scale-to-width-down/340?cb=20180910144058" group-title="Music",VH1
