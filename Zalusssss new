@@ -1,24 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://static.wixstatic.com/media/efc593_ddd112c4347a498ba57c019ab8a8f328~mv2.jpg" group-title="Bangla",Deepto TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla",channel i
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1200px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangla",Nagorik
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla",GTV HD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24   HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/news24-tv.jpg" group-title="Bangla",News 24   HD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV HD 
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="Bangla",ATN News
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star jalsha  HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/top-crop/width/220/height/220?cb=20180908084350" group-title="Bangla",Star jalsha  HD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="Bangla",Zee Bangla HD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/6496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV " tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="Bangla",BTV 
+http://bdiptv.myftp.biz:25461/live/link tast/121/6498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV " tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla",Sangsad TV 
+http://bdiptv.myftp.biz:25461/live/link tast/121/6499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV " tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangla",Deepto TV 
+http://bdiptv.myftp.biz:25461/live/link tast/121/6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i " tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangla",Channel i 
+http://bdiptv.myftp.biz:25461/live/link tast/121/6501.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="Bangla",NEWS 24 
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangla",MAASRANGA TV 
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="Bangla",EKATTOR TV 
+http://ctgiptv.kitv.live:1935/live/test/test1/11.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla",INDEPENDENT TV
+http://ctgiptv.kitv.live:1935/live/test/test1/7.ts
+#EXTINF:-1,NAGORIK-TV
+http://ctgiptv.kitv.live:1935/live/test/test1/6.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="Bangla",GAZI TV
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Bangla",Star Jalsha HD 
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Bangla",Zee Bangla SD 
+https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangla",Channel 24
 http://bdiptv.myftp.biz:25461/live/nawtest/121/6498.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangla",RTV
