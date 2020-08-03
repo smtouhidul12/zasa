@@ -835,164 +835,109 @@ http://bdiptv.myftp.biz:25461/live/nawtest/121/9181.m3u8
 http://bdiptv.myftp.biz:25461/live/nawtest/121/9182.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Times Now" tvg-logo="https://i.imgur.com/4GC7NBE.png" group-title="BDIX 1  ",Times Now
 http://bdiptv.myftp.biz:25461/live/nawtest/121/9183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DBC-NEWS" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX 2 ",DBC-NEWS
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BDIX 2 ",Ekattor-tv
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atn-News" tvg-logo="" group-title="BDIX 2 ",Atn-News
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent-Tv" tvg-logo="" group-title="BDIX 2 ",Independent-Tv
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna-TV" tvg-logo="" group-title="BDIX 2 ",Jamuna-TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy-TV" tvg-logo="" group-title="BDIX 2 ",Somoy-TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News24bd" tvg-logo="" group-title="BDIX 2 ",News24bd
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel24" tvg-logo="" group-title="BDIX 2 ",Channel24
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN-Bangla" tvg-logo="" group-title="BDIX 2 ",ATN-Bangla
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel-i" tvg-logo="" group-title="BDIX 2 ",Channel-i
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey-TV" tvg-logo="" group-title="BDIX 2 ",Ekushey-TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ntv" tvg-logo="" group-title="BDIX 2 ",Ntv
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="BDIX 2 ",RTV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9196.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Masranga TV HD" tvg-logo="" group-title="BDIX 2 ",Masranga TV HD
+http://bdiptv.myftp.biz:25461/rarin/121/10294
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="" group-title="BDIX 2 ",Nagorik TV
+http://bdiptv.myftp.biz:25461/rarin/121/10295
+#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="" group-title="BDIX 2 ",Channel I
+http://bdiptv.myftp.biz:25461/rarin/121/10296
+#EXTINF:-1 tvg-id="" tvg-name="Diptho TV" tvg-logo="" group-title="BDIX 2 ",Diptho TV
+http://bdiptv.myftp.biz:25461/rarin/121/10297
 #EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="" group-title="BDIX 2 ",SATV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASRANGA" tvg-logo="" group-title="BDIX 2 ",MASRANGA
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AsianTV" tvg-logo="" group-title="BDIX 2 ",AsianTV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla-TV" tvg-logo="" group-title="BDIX 2 ",Bangla-TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="" group-title="BDIX 2 ",BanglaVision
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi" tvg-logo="" group-title="BDIX 2 ",Boishakhi
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto-TV" tvg-logo="" group-title="BDIX 2 ",Deepto-TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duronto_TV" tvg-logo="" group-title="BDIX 2 ",Duronto_TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh_Tv" tvg-logo="" group-title="BDIX 2 ",Desh_Tv
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GaanBangla" tvg-logo="" group-title="BDIX 2 ",GaanBangla
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MohonaTV" tvg-logo="" group-title="BDIX 2 ",MohonaTV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="BDIX 2 ",MyTV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik-TV" tvg-logo="" group-title="BDIX 2 ",Nagorik-TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="anandotv" tvg-logo="" group-title="BDIX 2 ",anandotv
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BijoyTv" tvg-logo="" group-title="BDIX 2 ",BijoyTv
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Btv" tvg-logo="" group-title="BDIX 2 ",Btv
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Btv_World" tvg-logo="" group-title="BDIX 2 ",Btv_World
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shangshad_TV" tvg-logo="" group-title="BDIX 2 ",Shangshad_TV
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="star jalsha" tvg-logo="" group-title="BDIX 2 ",star jalsha
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="apb" tvg-logo="" group-title="BDIX 2 ",apb
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SangeetBangla" tvg-logo="" group-title="BDIX 2 ",SangeetBangla
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi-Bangla" tvg-logo="" group-title="BDIX 2 ",Ruposhi-Bangla
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Macau_Lotus" tvg-logo="" group-title="BDIX 2 ",Macau_Lotus
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Romedy_now" tvg-logo="" group-title="BDIX 2 ",Romedy_now
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movies_Now_2" tvg-logo="" group-title="BDIX 2 ",Movies_Now_2
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="" group-title="BDIX 2 ",MNX
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AndPicturesHD" tvg-logo="" group-title="BDIX 2 ",AndPicturesHD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colorsindia" tvg-logo="" group-title="BDIX 2 ",colorsindia
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9224.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rishteycineplex" tvg-logo="" group-title="BDIX 2 ",Rishteycineplex
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SonyTVHD" tvg-logo="" group-title="BDIX 2 ",SonyTVHD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9226.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star_Plus" tvg-logo="" group-title="BDIX 2 ",Star_Plus
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="StarBharat" tvg-logo="" group-title="BDIX 2 ",StarBharat
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9228.m3u8
+http://bdiptv.myftp.biz:25461/rarin/121/10298
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="BDIX 2 ",NTV
+http://bdiptv.myftp.biz:25461/rarin/121/10299
+#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA" tvg-logo="" group-title="BDIX 2 ",ATN BANGLA
+http://bdiptv.myftp.biz:25461/rarin/121/10300
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="BDIX 2 ",RTV
+http://bdiptv.myftp.biz:25461/rarin/121/10301
+#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="" group-title="BDIX 2 ",INDEPENDENT
+http://bdiptv.myftp.biz:25461/rarin/121/10302
+#EXTINF:-1 tvg-id="" tvg-name="JAMUNA" tvg-logo="" group-title="BDIX 2 ",JAMUNA
+http://bdiptv.myftp.biz:25461/rarin/121/10303
+#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="" group-title="BDIX 2 ",SOMOY TV
+http://bdiptv.myftp.biz:25461/rarin/121/10304
+#EXTINF:-1 tvg-id="" tvg-name="ETV BANGADESH" tvg-logo="" group-title="BDIX 2 ",ETV BANGADESH
+http://bdiptv.myftp.biz:25461/rarin/121/10305
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="" group-title="BDIX 2 ",CHANNEL 24
+http://bdiptv.myftp.biz:25461/rarin/121/10306
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA VISION" tvg-logo="" group-title="BDIX 2 ",BANGLA VISION
+http://bdiptv.myftp.biz:25461/rarin/121/10307
+#EXTINF:-1 tvg-id="" tvg-name="MY TV HD" tvg-logo="" group-title="BDIX 2 ",MY TV HD
+http://bdiptv.myftp.biz:25461/rarin/121/10308
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="BDIX 2 ",BTV
+http://bdiptv.myftp.biz:25461/rarin/121/10309
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA HD" tvg-logo="" group-title="BDIX 2 ",ZEE BANGLA HD
+http://bdiptv.myftp.biz:25461/rarin/121/10310
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="" group-title="BDIX 2 ",STAR JALSHA
+http://bdiptv.myftp.biz:25461/rarin/121/10311
+#EXTINF:-1 tvg-id="" tvg-name="SONY ENTERTANT MENT" tvg-logo="" group-title="BDIX 2 ",SONY ENTERTANT MENT
+http://bdiptv.myftp.biz:25461/rarin/121/10312
+#EXTINF:-1 tvg-id="" tvg-name="Star plus" tvg-logo="" group-title="BDIX 2 ",Star plus
+http://bdiptv.myftp.biz:25461/rarin/121/10313
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV SD" tvg-logo="" group-title="BDIX 2 ",ZEE TV SD
+http://bdiptv.myftp.biz:25461/rarin/121/10314
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="" group-title="BDIX 2 ",ZEE CINEMA
+http://bdiptv.myftp.biz:25461/rarin/121/10315
+#EXTINF:-1 tvg-id="" tvg-name="COLORS  SD" tvg-logo="" group-title="BDIX 2 ",COLORS  SD
+http://bdiptv.myftp.biz:25461/rarin/121/10316
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SD" tvg-logo="" group-title="BDIX 2 ",STAR GOLD SD
+http://bdiptv.myftp.biz:25461/rarin/121/10317
+#EXTINF:-1 tvg-id="" tvg-name="HUM SATHIYA" tvg-logo="" group-title="BDIX 2 ",HUM SATHIYA
+http://bdiptv.myftp.biz:25461/rarin/121/10318
+#EXTINF:-1 tvg-id="" tvg-name="HUM SATHYE YA" tvg-logo="" group-title="BDIX 2 ",HUM SATHYE YA
+http://bdiptv.myftp.biz:25461/rarin/121/10319
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="" group-title="BDIX 2 ",B4U Movies
+http://bdiptv.myftp.biz:25461/rarin/121/10320
+#EXTINF:-1 tvg-id="" tvg-name="Entertant Movies" tvg-logo="" group-title="BDIX 2 ",Entertant Movies
+http://bdiptv.myftp.biz:25461/rarin/121/10321
+#EXTINF:-1 tvg-id="" tvg-name="&fLIX" tvg-logo="" group-title="BDIX 2 ",&fLIX
+http://bdiptv.myftp.biz:25461/rarin/121/10322
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="BDIX 2 ",TLC
+http://bdiptv.myftp.biz:25461/rarin/121/10323
+#EXTINF:-1 tvg-id="" tvg-name="BBC LIFE STYLE" tvg-logo="" group-title="BDIX 2 ",BBC LIFE STYLE
+http://bdiptv.myftp.biz:25461/rarin/121/10324
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX 2 ",
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9229.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZeeCinemaHD" tvg-logo="" group-title="BDIX 2 ",ZeeCinemaHD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Entert-ten" tvg-logo="" group-title="BDIX 2 ",Entert-ten
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="BDIX 2 ",Zoom
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9232.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B4umuisc" tvg-logo="" group-title="BDIX 2 ",B4umuisc
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9xm" tvg-logo="" group-title="BDIX 2 ",9xm
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Masti-Music" tvg-logo="" group-title="BDIX 2 ",Masti-Music
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bflix" tvg-logo="" group-title="BDIX 2 ",bflix
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony_Sab" tvg-logo="" group-title="BDIX 2 ",Sony_Sab
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal_Planent" tvg-logo="" group-title="BDIX 2 ",Animal_Planent
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC_World" tvg-logo="" group-title="BDIX 2 ",TLC_World
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9239.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT-GEO-HD" tvg-logo="" group-title="BDIX 2 ",NAT-GEO-HD
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat_Geo_wild" tvg-logo="" group-title="BDIX 2 ",Nat_Geo_wild
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9241.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="k2" tvg-logo="" group-title="BDIX 2 ",k2
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9242.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="k3" tvg-logo="" group-title="BDIX 2 ",k3
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star_World_Ind" tvg-logo="" group-title="BDIX 2 ",Star_World_Ind
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox_life" tvg-logo="" group-title="BDIX 2 ",Fox_life
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors_infinity" tvg-logo="" group-title="BDIX 2 ",Colors_infinity
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC_World" tvg-logo="" group-title="BDIX 2 ",BBC_World
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="" group-title="BDIX 2 ",Aljazeera
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cnn_news" tvg-logo="" group-title="BDIX 2 ",Cnn_news
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Voa_news" tvg-logo="" group-title="BDIX 2 ",Voa_news
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Times_now" tvg-logo="" group-title="BDIX 2 ",Times_now
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dw" tvg-logo="" group-title="BDIX 2 ",Dw
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney_Junior" tvg-logo="" group-title="BDIX 2 ",Disney_Junior
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9253.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="nike" tvg-logo="" group-title="BDIX 2 ",nike
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonic" tvg-logo="" group-title="BDIX 2 ",sonic
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="BDIX 2 ",ESPN
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="N 2" tvg-logo="" group-title="BDIX 2 ",N 2
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9257.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1" tvg-logo="" group-title="BDIX 2 ",AD Sports 1
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2" tvg-logo="" group-title="BDIX 2 ",AD Sports 2
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9259.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports 3" tvg-logo="" group-title="BDIX 2 ",AD Sports 3
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports 4" tvg-logo="" group-title="BDIX 2 ",AD Sports 4
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colorsbangla" tvg-logo="" group-title="BDIX 2 ",colorsbangla
-http://bdiptv.myftp.biz:25461/live/nawtest/121/9262.m3u8
+http://bdiptv.myftp.biz:25461/rarin/121/10325
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX 2 ",
+http://bdiptv.myftp.biz:25461/rarin/121/10326
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="" group-title="BDIX 2 ",SONY SIX HD
+http://bdiptv.myftp.biz:25461/rarin/121/10327
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN HD" tvg-logo="" group-title="BDIX 2 ",SONY TEN HD
+http://bdiptv.myftp.biz:25461/rarin/121/10328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="BDIX 2 ",
+http://bdiptv.myftp.biz:25461/rarin/121/10329
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="BDIX 2 ",BBC WORLD NEWS
+http://bdiptv.myftp.biz:25461/rarin/121/10330
+#EXTINF:-1 tvg-id="" tvg-name="DD BANGLA" tvg-logo="" group-title="BDIX 2 ",DD BANGLA
+http://bdiptv.myftp.biz:25461/rarin/121/10331
+#EXTINF:-1 tvg-id="" tvg-name="AL JAJIRA" tvg-logo="" group-title="BDIX 2 ",AL JAJIRA
+http://bdiptv.myftp.biz:25461/rarin/121/10332
+#EXTINF:-1 tvg-id="" tvg-name="KALKATA TV" tvg-logo="" group-title="BDIX 2 ",KALKATA TV
+http://bdiptv.myftp.biz:25461/rarin/121/10333
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" tvg-logo="" group-title="BDIX 2 ",SONY YAY
+http://bdiptv.myftp.biz:25461/rarin/121/10334
+#EXTINF:-1 tvg-id="" tvg-name="GB" tvg-logo="" group-title="BDIX 2 ",GB
+http://bdiptv.myftp.biz:25461/rarin/121/10335
+#EXTINF:-1 tvg-id="" tvg-name="SANGIT BANGLA" tvg-logo="" group-title="BDIX 2 ",SANGIT BANGLA
+http://bdiptv.myftp.biz:25461/rarin/121/10336
+#EXTINF:-1 tvg-id="" tvg-name="8XM" tvg-logo="" group-title="BDIX 2 ",8XM
+http://bdiptv.myftp.biz:25461/rarin/121/10337
+#EXTINF:-1 tvg-id="" tvg-name="9XM JALAWA" tvg-logo="" group-title="BDIX 2 ",9XM JALAWA
+http://bdiptv.myftp.biz:25461/rarin/121/10338
+#EXTINF:-1 tvg-id="" tvg-name="JALWLA" tvg-logo="" group-title="BDIX 2 ",JALWLA
+http://bdiptv.myftp.biz:25461/rarin/121/10339
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="BDIX 2 ",HISTORY
+http://bdiptv.myftp.biz:25461/rarin/121/10340
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX" tvg-logo="" group-title="BDIX 2 ",MUSIC BOX
+http://bdiptv.myftp.biz:25461/rarin/121/10341
+#EXTINF:-1 tvg-id="" tvg-name="AKASH 8" tvg-logo="" group-title="BDIX 2 ",AKASH 8
+http://bdiptv.myftp.biz:25461/rarin/121/10342
+#EXTINF:-1 tvg-id="" tvg-name="MONORONJON TV" tvg-logo="" group-title="BDIX 2 ",MONORONJON TV
+http://bdiptv.myftp.biz:25461/rarin/121/10343
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MAASRANGA TV HD" tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BDIX 3",MAASRANGA TV HD
 http://bdiptv.myftp.biz:25461/live/nawtest/121/9263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BDIX 3",ASIAN TV HD
